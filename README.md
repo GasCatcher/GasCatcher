@@ -16,7 +16,7 @@
 # Guides
 
 - https://github.com/GasCatcher/enso-guide-gascatcher
-
+- https://github.com/GasCatcher/berachain_node_setup
 # Links
 
 - https://x.com/GasCatcherChain
